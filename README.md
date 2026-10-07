@@ -17,4 +17,4 @@ Er bestaat online nog niets van deze zaak: geen foto, geen site, geen geclaimde 
 - [ ] Naam van de kapper, als hij dat op de site wil
 
 ## Design
-Mid-century/Bauhaus zonder foto's: mosterd, petrol, baksteenrood en crème, met een geanimeerde barberpaal en schaar in CSS/SVG. DM Serif Display + Space Grotesk.
+Premium donker (zelfde stijl als MG Barbershop): bijna-zwarte achtergrond, Bodoni Moda + Manrope, een eigen accentkleur en een monogram-logo (`img/logo-*.svg`). Diensten, prijzen en uren staan bovenaan `script.js`.
